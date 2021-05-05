@@ -1,7 +1,6 @@
 ---
-title: "IE492"
-author: "Tümay Kır"
-date: "5/5/2021"
+title: "Analysis of Simultaneous Arrivals to Dependent"
+author: "Tumay Kir, Yusuf Hancer, Deniz Aleyna Akbasaran, Musab Emir Bas"
 output: html_document
 ---
 
