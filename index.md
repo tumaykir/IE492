@@ -1,1 +1,1 @@
-3D-Cost[Graph.html]
+[3D-Cost](Graph.html)
